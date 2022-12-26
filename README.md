@@ -61,8 +61,8 @@ console.log("Hola mundo js");
 
 <!-- Github MarkDown -->
 * [x] task 1 tarea hech
-* [] task 2 tarea no hecha
-* [] task 3
+* [ ] task 2 tarea no hecha
+* [ ] task 3
 * [x] task 4
 
 
